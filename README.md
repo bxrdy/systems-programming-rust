@@ -1,6 +1,6 @@
 # Systems Programming w/ Rust
 
-Exploring Rust's approach to systems programming through hands-on implementations. Tracking building reliable, performant code with Rust's memory safety guarantees (well, C & C++ folks would somewhat not agree with me lol :P).
+Exploring Rust's approach to systems programming through implementations. Tracking building reliable, performant code with Rust's memory safety guarantees (well, C & C++ folks would somewhat not agree with me lol :P).
 
 ## What's Inside
 
