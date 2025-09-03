@@ -1,6 +1,6 @@
-# Systems Programming with Rust
+# Systems Programming w/ Rust
 
-Exploring Rust's approach to systems programming through hands-on implementations. This repository tracks my journey building reliable, performant code with Rust's memory safety guarantees.
+Exploring Rust's approach to systems programming through hands-on implementations. Tracking building reliable, performant code with Rust's memory safety guarantees (well, C & C++ folks would somewhat not agree with me lol :P).
 
 ## What's Inside
 
@@ -45,7 +45,7 @@ fundamentals/     Core Rust concepts through practical examples
 
 ## Development Notes
 
-Code follows idiomatic Rust patterns with comprehensive error handling. All implementations pass clippy without warnings and use standard formatting via `cargo fmt`.
+Code follows idiomatic Rust patterns with error handling. All implementations pass clippy without warnings and use standard formatting via `cargo fmt`.
 
 ---
 
