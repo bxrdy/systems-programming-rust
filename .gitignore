@@ -20,17 +20,8 @@ Cargo.lock
 ehthumbs.db
 Thumbs.db
 
-# Hide sensitive/course-revealing files
+# Development files
 CLAUDE.md
-**/CLAUDE.md
-exercises/README.md
-solutions/
-**/beginner*.md
-**/course*.md
-**/activity-*.md
-
-# Keep professional documentation:
-# README.md, SETUP.md, WORKFLOW.md, PROGRESS.md will be tracked
 
 # Logs
 *.log
