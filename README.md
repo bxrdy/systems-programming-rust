@@ -10,8 +10,8 @@ Exploring Rust's approach to systems programming through hands-on implementation
 - Pattern matching for robust control flow
 - Memory management through ownership and borrowing
 
-**Advanced Implementation**
-- ClipStash: Full-stack web service with async patterns and database integration
+**Advanced Projects**
+- ClipStash: Full-stack web service (planned - async patterns and database integration)
 
 ## Current Progress
 
@@ -40,7 +40,6 @@ See [SETUP.md](SETUP.md) for complete environment configuration.
 ```
 fundamentals/     Core Rust concepts through practical examples
 projects/         Real-world applications demonstrating advanced patterns
-reference/        Implementation notes and development workflow
 ```
 
 ## Development Notes

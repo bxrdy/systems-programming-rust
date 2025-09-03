@@ -5,7 +5,7 @@
 ### Starting a Session
 ```bash
 # Navigate to working directory  
-cd /Users/biju09/Downloads/rust-course-data/exercises/activities
+cd /path/to/your/rust/project
 
 # Check current state
 git status
@@ -15,9 +15,9 @@ ls src/bin/ | tail -5  # See recent work
 ### Working on Implementation
 ```bash
 # Development cycle
-cargo run -q --bin a3    # Test implementation
-cargo check             # Quick syntax check
-cargo clippy && cargo fmt  # Quality check before commit
+cargo run -q --bin implementation_name    # Test implementation
+cargo check                              # Quick syntax check
+cargo clippy && cargo fmt                # Quality check before commit
 ```
 
 ### Code Quality Standards
@@ -46,9 +46,9 @@ git commit -m "implement pattern matching for decision logic
 - Demonstrate compiler-enforced pattern coverage
 - Apply idiomatic Rust control flow patterns"
 
-# Avoid generic messages
-git commit -m "completed exercise 3"  # Too vague
-git commit -m "working on match"      # Not descriptive
+# Avoid generic messages  
+git commit -m "finished function work"  # Too vague
+git commit -m "working on match"        # Not descriptive
 ```
 
 ### Repository Maintenance
