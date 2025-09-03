@@ -1,6 +1,8 @@
 # Systems Programming w/ Rust
 
-Exploring Rust's approach to systems programming through implementations. Tracking building reliable, performant code with Rust's memory safety guarantees (well, C & C++ folks would somewhat not agree with me lol :P).
+Exploring Rust's approach to systems programming through implementations. Rust caught my attention for systems programming - not claiming it's perfect, just curious about the hype. Building reliable, performant code with memory safety guarantees (well, C & C++ folks would somewhat not agree with me lol :P).
+
+C gives you that 3 AM adrenaline rush when malloc goes rogue, but I prefer my crashes at compile time.
 
 ## What's Inside
 
@@ -14,6 +16,25 @@ Exploring Rust's approach to systems programming through implementations. Tracki
 - Advanced web services with async patterns
 - Database integration with SQLx
 - Production deployment strategies
+
+## The Classic Tradeoff
+
+```
+    Performance ↑
+         │
+         │  C/C++ ●
+         │         ╲
+         │          ╲
+         │           ╲
+         │    Rust 🦀 ●
+         │             ╲
+         │              ╲
+         │               ● Others
+         │
+         └─────────────────────→ Memory Safety
+         
+    "Fast, safe, pick... both?" - Rust, probably
+```
 
 ## Current Progress
 
