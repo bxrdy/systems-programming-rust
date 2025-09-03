@@ -1,8 +1,10 @@
 # Systems Programming w/ Rust
 
-Exploring Rust's approach to systems programming through implementations. Rust caught my attention for systems programming - not claiming it's perfect, just curious about the hype. Building reliable, performant code with memory safety guarantees (well, C & C++ folks would somewhat not agree with me lol :P).
+Ever wonder what happens when you take C's performance obsession and add a compiler that actually cares about your mental health? 
 
-C gives you that 3 AM adrenaline rush when malloc goes rogue, but I prefer my crashes at compile time.
+That's basically Rust - and honestly, I got curious about the hype. Sure, C gives you that 3 AM adrenaline rush when malloc goes rogue, but I'd rather my code yell at me during compilation than crash in production (sorry C & C++ folks, but you know it's true lol :P).
+
+This repo is my journey through Rust's take on systems programming - no claims of perfection, just exploration.
 
 ## What's Inside
 
