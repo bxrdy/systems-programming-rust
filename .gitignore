@@ -1,0 +1,44 @@
+# Rust
+target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Hide sensitive/course-revealing files
+CLAUDE.md
+**/CLAUDE.md
+exercises/README.md
+solutions/
+**/beginner*.md
+**/course*.md
+**/activity-*.md
+
+# Keep professional documentation:
+# README.md, SETUP.md, WORKFLOW.md, PROGRESS.md will be tracked
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+tmp/
+temp/
