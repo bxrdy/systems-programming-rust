@@ -44,9 +44,9 @@ This repo is my journey through Rust's take on systems programming - no claims o
 - Function Design Patterns (`01-functions/`) - Clean modular architecture
 - Arithmetic Operations (`02-arithmetic/`) - Type-safe computational abstractions
 - Flow Control (`03-flow-control/`) - Boolean-based conditional logic with if..else patterns
+- Pattern Matching (`04-pattern-matching/`) - Robust decision making with match expressions
 
 **In Progress:**
-- Pattern Matching - Exploring Rust's match expressions
 - Loop Constructs - Implementing iterative patterns
 
 ## Quick Start
